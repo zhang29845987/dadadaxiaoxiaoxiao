@@ -1,0 +1,11 @@
+[ {
+  "uid" : "df087312a68a0446",
+  "name" : "lianxizz.Test_01.test_01",
+  "time" : {
+    "start" : 1577284639215,
+    "stop" : 1577284639273,
+    "duration" : 58
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+} ]

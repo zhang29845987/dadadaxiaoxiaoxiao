@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "script",
+    "children" : [ {
+      "name" : "lianxizz.Test_01.test_01",
+      "uid" : "df087312a68a0446",
+      "parentUid" : "753b61216abbfea068f4ca4e530487c6",
+      "status" : "failed",
+      "time" : {
+        "start" : 1577284639215,
+        "stop" : 1577284639273,
+        "duration" : 58
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "753b61216abbfea068f4ca4e530487c6"
+  } ]
+}

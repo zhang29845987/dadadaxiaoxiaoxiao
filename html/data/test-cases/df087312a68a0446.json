@@ -1,0 +1,66 @@
+{
+  "uid" : "df087312a68a0446",
+  "name" : "lianxizz.Test_01.test_01",
+  "fullName" : "script.lianxizz.Test_01.test_01",
+  "historyId" : "d0efcd75352df43e96cd698326dcf1e6",
+  "time" : {
+    "start" : 1577284639215,
+    "stop" : 1577284639273,
+    "duration" : 58
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert False",
+  "statusTrace" : "self = <script.lianxizz.Test_01 object at 0x03769330>\n\n    @pytest.allure.severity(pytest.allure.severity_level.BLOCKER)\n    def test_01(self):\n>       assert False\nE       assert False\n\nscript\\lianxizz.py:7: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-86LHG97"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "9412-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "script"
+  }, {
+    "name" : "testClass",
+    "value" : "script"
+  }, {
+    "name" : "testMethod",
+    "value" : "lianxizz.Test_01.test_01"
+  }, {
+    "name" : "package",
+    "value" : "script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "df087312a68a0446.json",
+  "parameterValues" : [ ]
+}

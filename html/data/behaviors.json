@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "lianxizz.Test_01.test_01",
+    "uid" : "df087312a68a0446",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1577284639215,
+      "stop" : 1577284639273,
+      "duration" : 58
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

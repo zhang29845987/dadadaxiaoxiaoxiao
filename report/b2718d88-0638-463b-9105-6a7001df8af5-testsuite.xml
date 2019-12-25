@@ -1,0 +1,29 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1577284639215" stop="1577284639273">
+  <name>script</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1577284639215" status="failed" stop="1577284639273">
+      <name>lianxizz.Test_01.test_01</name>
+      <failure>
+        <message>AssertionError: assert False</message>
+        <stack-trace>self = &lt;script.lianxizz.Test_01 object at 0x03769330&gt;
+
+    @pytest.allure.severity(pytest.allure.severity_level.BLOCKER)
+    def test_01(self):
+&gt;       assert False
+E       assert False
+
+script\lianxizz.py:7: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="9412-MainThread"/>
+        <label name="host" value="DESKTOP-86LHG97"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

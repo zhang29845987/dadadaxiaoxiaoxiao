@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-86LHG97",
+    "children" : [ {
+      "name" : "9412-MainThread",
+      "children" : [ {
+        "name" : "lianxizz.Test_01.test_01",
+        "uid" : "df087312a68a0446",
+        "parentUid" : "c5dc1025dab2331e9ce8158238614601",
+        "status" : "failed",
+        "time" : {
+          "start" : 1577284639215,
+          "stop" : 1577284639273,
+          "duration" : 58
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c5dc1025dab2331e9ce8158238614601"
+    } ],
+    "uid" : "363ae14124a3dbc12036e40c1b73a254"
+  } ]
+}
